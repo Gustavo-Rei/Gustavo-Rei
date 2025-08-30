@@ -44,7 +44,8 @@ Além de programação e dados, também tenho interesse em:
 ## 🎮 Um pouco sobre mim
 
 - 🚀 Apaixonado por **Linux**, gosto de testar diferentes distribuições (mais familiaridade com **Ubuntu**)  
-- 📰 Sempre atualizado em **notícias sobre tecnologia e open source** - 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez** - 🤝 Curto ajudar amigos e colegas com suporte técnico e dúvidas sobre hardware/software  
+- 📰 Sempre atualizado em **notícias sobre tecnologia e open source** - 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez**
+- 🤝 Curto ajudar amigos e colegas com suporte técnico e dúvidas sobre hardware/software  
 
 ---
 
