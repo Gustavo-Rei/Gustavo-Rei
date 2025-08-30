@@ -1,14 +1,39 @@
-👋 Olá, eu sou Gustavo
-💻 Profissional de TI com formação em Técnico em Edificações.
-📚 Atualmente, estudante de Análise e Desenvolvimento de Sistemas (ADS), unindo conhecimentos de nengenharia para criar soluções inovadoras.
-🚀 Experiência em projetos de TI, startups e aplicações práticas de tecnologia voltadas para transformação digital.
+# 👋 Olá, eu sou Gustavo Reis  
 
-🎓 Formação Acadêmica
-📚 Cursando ADS (Análise e Desenvolvimento de Sistemas) – Faculdade de Técnologia Senac
-🎓 Técnico em Edificações - Cólegio Estadual Polivalente
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📊 Em formação para atuar como **Analista de Dados**  
+📍 Paraná - Brasil  
 
-🛠️ Tecnologias & Ferramentas
-Linguagens: PHP, Python, SQL, C++
-Desenvolvimento Web: React-Native, HTML + CSS
-Banco de Dados: MySQL, PostgreSQL
-Outros: Gestão de Projetos (Scrum, Kanban, FDD)
+---
+
+## 🚀 Tecnologias que utilizo
+- **Linguagens:** Python | SQL | PHP | C++  
+- **Ferramentas de Análise de Dados:** Pandas | Power BI  
+- **Foco atual:** Manipulação, visualização e interpretação de dados  
+- **Interesses futuros:** Desenvolvimento de APIs e automação de processos com Python  
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <a href="https://github.com/gustavoreis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoreis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreis&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI/)  
+
+---
+
+## 🎮 Um pouco sobre mim
+- 🚀 Apaixonado por **Linux**, gosto de testar diferentes distribuições (mais familiaridade com **Ubuntu**)  
+- 📰 Sempre atualizado em **notícias sobre tecnologia e open source**  
+- 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez**  
+
+---
+
+✨ “Sempre aprendendo algo novo e buscando transformar dados em informações valiosas.”
