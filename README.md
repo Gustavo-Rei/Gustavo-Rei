@@ -27,7 +27,6 @@
 
 ## 🌐 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavoreis853/)  
-- 🐙 [GitHub](https://github.com/gustavo-rei)  
 
 ---
 
