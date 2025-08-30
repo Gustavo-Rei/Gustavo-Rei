@@ -15,6 +15,14 @@
 
 ---
 
+## 🛠️ Área de Suporte & Hardware
+Além de programação e dados, também tenho interesse em:  
+- 💻 Montagem e manutenção de computadores  
+- ⚡ Otimização de sistemas operacionais (com carinho especial pelo Linux 🐧)  
+- 🔧 Diagnóstico e resolução de problemas de hardware e software  
+
+---
+
 ## 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/gustavo-rei">
@@ -34,7 +42,8 @@
 - 🚀 Apaixonado por **Linux**, gosto de testar diferentes distribuições (mais familiaridade com **Ubuntu**)  
 - 📰 Sempre atualizado em **notícias sobre tecnologia e open source**  
 - 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez**  
+- 🤝 Curto ajudar amigos e colegas com suporte técnico e dúvidas sobre hardware/software  
 
 ---
 
-✨ “Sempre aprendendo algo novo e buscando transformar dados em informações valiosas.”
+✨ “Sempre aprendendo algo novo e buscando transformar dados em informações valiosas.”  
