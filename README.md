@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Gustavo Reis
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
-📊 Em formação para atuar como **Analista de Dados** 
-🏗️ Formação anterior: **Técnico em Edificações** 
-📍 Paraná - Brasil  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📊 Em formação para atuar como **Analista de Dados**
+- 🏗️ Formação anterior: **Técnico em Edificações**
+- 📍 Paraná - Brasil 
 
 ---
 
