@@ -16,7 +16,7 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <a href="https://github.com/gustavoreis">
+  <a href="https://github.com/gustavo-rei">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoreis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoreis&layout=compact&langs_count=7&theme=radical"/>
   </a>
@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI/)  
+- 💼 [LinkedIn](www.linkedin.com/in/gustavoreis853/)  
 
 ---
 
