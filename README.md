@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Tecnologias que utilizo
-- **Linguagens:** Python | SQL | PHP | C++  
+- **Linguagens:** Python | SQL | PHP | C++ | C  
 - **Ferramentas de Análise de Dados:** Pandas | Power BI  
 - **Foco atual:** Manipulação, visualização e interpretação de dados  
 - **Interesses futuros:** Desenvolvimento de APIs e automação de processos com Python  
