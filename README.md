@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias que utilizo
 
 - **Linguagens:** Python | SQL | PHP | C++ | C | TSX
-- **Desenvolvimento Front-end:** HTML | CSS
+- **Desenvolvimento Front-end:** HTML | CSS | React Native
 - **Análise e Visualização de Dados:** Pandas | Power BI | Streamlit | Kaggle
 - **Desenvolvimento Mobile:** Expo.Dev
 - **Foco atual:** Manipulação, visualização e interpretação de dados
