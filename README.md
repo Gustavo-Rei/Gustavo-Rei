@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-reis-/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoreis853/)  
 [![GitHub](https://img.shields.io/github/followers/Gustavo-Rei?label=Follow&style=social)](https://github.com/Gustavo-Rei)
 
 </div>
@@ -26,7 +26,11 @@ Algumas das tecnologias e ferramentas que utilizo e estudo:
 - **Análise de Dados**: Pandas, Power BI, Streamlit, Kaggle.
 - **Outras Ferramentas**: Git, Linux (distribuições como Ubuntu), ferramentas de automação.
 
+<div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ## Projetos Destacados
 Aqui estão alguns repositórios selecionados:
@@ -40,11 +44,15 @@ Aqui estão alguns repositórios selecionados:
 Explore todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=repositories).
 
 ## Estatísticas do GitHub
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Rei&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Rei&theme=dark&hide_border=true)
 
+</div>
+
 ## Contato
-- **LinkedIn**: [Gustavo Reis](https://www.linkedin.com/in/gustavo-reis-/).
+- **LinkedIn**: [Gustavo Reis](https://www.linkedin.com/in/gustavoreis853/).
 - **Localização**: Paraná, Brasil.
 
 Entre em contato para discussões profissionais ou colaborações! 😊
