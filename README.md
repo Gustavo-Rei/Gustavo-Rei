@@ -53,7 +53,7 @@ Explore todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=re
 
 ## Contato
 - **LinkedIn**: [Gustavo Reis](https://www.linkedin.com/in/gustavoreis853/).
-- **E-mail**: [Gustavo Reis](gustavoreis853@gmail.com).
+- **WhatsApp**: [Gustavo Reis](https://wa.me/5542988419675?text=Ol%C3%A1%2C%20tudo%20bem%3F).
 - **Localização**: Paraná, Brasil.
 
 Entre em contato para discussões profissionais ou colaborações! 😊
