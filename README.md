@@ -7,24 +7,23 @@
 
 </div>
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com formação em **Técnico em Edificações**. Localizado no **Paraná, Brasil**, foco em **Análise de Dados** e tecnologias open source. Apaixonado por Linux, programação e resolução de problemas complexos. Sempre em busca de oportunidades para colaborar em projetos inovadores! 👨‍💻
+Oi! 👋 Eu sou o **Gustavo Reis**, estudante de **Análise e Desenvolvimento de Sistemas** com formação em **Técnico em Edificações**, diretamente do **Paraná, Brasil**. Sou apaixonado por **Linux**, programação e desafios complexos, sempre buscando aprender e criar coisas novas.  
 
 ## Sobre Mim
-- **Formação Acadêmica**: Graduando em Análise e Desenvolvimento de Sistemas | Técnico em Edificações.
-- **Áreas de Expertise**: Manipulação e visualização de dados, suporte técnico em hardware e software.
-- **Interesses Profissionais**: Desenvolvimento de APIs, automação com Python e análise de dados avançada.
-- **Habilidades Adicionais**: Montagem e manutenção de computadores, otimização de sistemas operacionais (especialmente Linux), diagnóstico de problemas de hardware e software.
-- **Hobbies**: Explorar distribuições Linux, acompanhar tendências em tecnologia open source, jogos competitivos como Valorant, CS2, Minecraft, LoL.
+- 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas | Técnico em Edificações  
+- 💻 **O que curto fazer:** Manipulação e visualização de dados, automação com Python, desenvolvimento de APIs, suporte técnico de hardware/software  
+- 🛠️ **Habilidades extras:** Montagem e manutenção de PCs, otimização de Linux e diagnóstico de problemas técnicos  
+- 🎮 **Hobbies:** Testar distros Linux, acompanhar tendências open source e jogar (Valorant, CS2, Minecraft, LoL)  
 
-Estou aberto a colaborações em projetos de dados, desenvolvimento ou open source.
+Estou sempre aberto a **colaborações em projetos de dados, desenvolvimento ou open source**.  
 
 ## Tecnologias e Ferramentas
-Algumas das tecnologias e ferramentas que utilizo e estudo:
+Aqui estão algumas das minhas “armas” do dia a dia:
 
-- **Linguagens de Programação**: Python | SQL | PHP | C++ | C | TypeScript (TSX).
-- **Front-end e Mobile**: HTML | CSS | React Native | Expo.Dev.
-- **Análise de Dados**: Pandas| Power BI | Streamlit | Kaggle.
-- **Outras Ferramentas**: Git, Linux (distribuições como Ubuntu e Debian), ferramentas de automação.
+- **Linguagens:** Python | SQL | PHP | C++ | C | TypeScript (TSX)  
+- **Front-end & Mobile:** HTML | CSS | React Native | Expo.Dev  
+- **Análise de Dados:** Pandas | Power BI | Streamlit | Kaggle  
+- **Outras ferramentas:** Git, Linux (Ubuntu, Debian), automações  
 
 <div align="center">
   
@@ -32,16 +31,15 @@ Algumas das tecnologias e ferramentas que utilizo e estudo:
 
 </div>
 
-## Projetos Destacados
-Aqui estão alguns repositórios selecionados:
+## Projetos em destaque
+Aqui estão alguns projetos que fiz e curto compartilhar:
 
-- **[agendaSenac2025](https://github.com/Gustavo-Rei/agendaSenac2025)**: Sistema de gerenciamento de agendas desenvolvido em PHP.
-- **[cursoStreamlit](https://github.com/Gustavo-Rei/cursoStreamlit)**: Aplicações para visualização de dados utilizando Streamlit em Python.
-- **[estadoBrasil](https://github.com/Gustavo-Rei/estadoBrasil)**: Página web informativa sobre o estado de Santa Catarina, em HTML.
-- **[ballGravity](https://github.com/Gustavo-Rei/ballGravity)**: Jogo simples com simulação de física de gravidade em TypeScript.
-- **[ballGame](https://github.com/Gustavo-Rei/ballGame)**: Projeto de jogo interativo em TypeScript.
+- **[agendaSenac2025](https://github.com/Gustavo-Rei/agendaSenac2025)** – Sistema de agendas em PHP  
+- **[cursoStreamlit](https://github.com/Gustavo-Rei/cursoStreamlit)** – Visualizações de dados com Python/Streamlit  
+- **[estadoBrasil](https://github.com/Gustavo-Rei/estadoBrasil)** – Página web sobre Santa Catarina (HTML)  
+- **[ballGame](https://github.com/Gustavo-Rei/ballGame)** – Jogo interativo em TypeScript  
 
-Explore todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=repositories).
+Veja todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=repositories).  
 
 ## Estatísticas do GitHub
 <div align="center">
@@ -52,10 +50,10 @@ Explore todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=re
 </div>
 
 ## Contato
-- **LinkedIn**: [Gustavo Reis](https://www.linkedin.com/in/gustavoreis853/).
-- **WhatsApp**: [Gustavo Reis](https://wa.me/5542988419675?text=Ol%C3%A1%2C%20tudo%20bem%3F).
-- **Localização**: Paraná, Brasil.
+- 📫 **LinkedIn:** [Gustavo Reis](https://www.linkedin.com/in/gustavoreis853/)  
+- 💬 **WhatsApp:** [Clique aqui para falar comigo](https://wa.me/5542988419675?text=Ol%C3%A1%2C%20tudo%20bem%3F)  
+- 📍 **Localização:** Paraná, Brasil  
 
-Entre em contato para discussões profissionais ou colaborações! 😊
+Se quiser trocar uma ideia sobre tecnologia, dados, programação ou só bater um papo, me chama! 😄
 
 ---
