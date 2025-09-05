@@ -14,17 +14,17 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com formação em **Téc
 - **Áreas de Expertise**: Manipulação e visualização de dados, suporte técnico em hardware e software.
 - **Interesses Profissionais**: Desenvolvimento de APIs, automação com Python e análise de dados avançada.
 - **Habilidades Adicionais**: Montagem e manutenção de computadores, otimização de sistemas operacionais (especialmente Linux), diagnóstico de problemas de hardware e software.
-- **Hobbies**: Explorar distribuições Linux (com ênfase em Ubuntu), acompanhar tendências em tecnologia open source, jogos competitivos como Valorant, CS2, Minecraft, LoL e xadrez.
+- **Hobbies**: Explorar distribuições Linux, acompanhar tendências em tecnologia open source, jogos competitivos como Valorant, CS2, Minecraft, LoL.
 
 Estou aberto a colaborações em projetos de dados, desenvolvimento ou open source.
 
 ## Tecnologias e Ferramentas
 Algumas das tecnologias e ferramentas que utilizo e estudo:
 
-- **Linguagens de Programação**: Python, SQL, PHP, C++, C, TypeScript (TSX).
-- **Front-end e Mobile**: HTML, CSS, React Native, Expo.Dev.
-- **Análise de Dados**: Pandas, Power BI, Streamlit, Kaggle.
-- **Outras Ferramentas**: Git, Linux (distribuições como Ubuntu), ferramentas de automação.
+- **Linguagens de Programação**: Python | SQL | PHP | C++ | C | TypeScript (TSX).
+- **Front-end e Mobile**: HTML | CSS | React Native | Expo.Dev.
+- **Análise de Dados**: Pandas| Power BI | Streamlit | Kaggle.
+- **Outras Ferramentas**: Git, Linux (distribuições como Ubuntu e Debian), ferramentas de automação.
 
 <div align="center">
   
