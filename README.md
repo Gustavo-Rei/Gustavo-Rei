@@ -1,66 +1,52 @@
-# 👋 Olá, eu sou Gustavo Reis
+# Olá, sou Gustavo Reis! 👋
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 📊 Em formação para atuar como **Analista de Dados**
-- 🏗️ Formação anterior: **Técnico em Edificações**
-- 📍 Paraná - Brasil 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-reis-/)  
+[![GitHub](https://img.shields.io/github/followers/Gustavo-Rei?label=Follow&style=social)](https://github.com/Gustavo-Rei)
 
----
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** na faculdade, em formação para atuar como **Analista de Dados**. Tenho formação anterior como **Técnico em Edificações** e estou localizado no **Paraná, Brasil**. Apaixonado por **Linux**, tecnologia **open source** e jogos como Valorant, CS2, Minecraft, LoL e xadrez. Sempre aprendendo algo novo e buscando transformar dados em informações valiosas!
 
-## 🚀 Tecnologias que utilizo
+## Sobre Mim
+- **Formação**: Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Edificações.
+- **Foco Atual**: Manipulação, visualização e interpretação de dados.
+- **Interesses Futuros**: Desenvolvimento de APIs e automação de processos com Python.
+- **Área de Suporte e Hardware**: Gosto de montagem e manutenção de computadores, otimização de sistemas operacionais (especialmente Linux), diagnóstico e resolução de problemas de hardware e software.
+- **Hobbies**: Testar distribuições Linux (mais familiar com Ubuntu), ficar atualizado sobre novidades em tecnologia e open source, ajudar amigos com suporte técnico, e jogar games competitivos.
 
-- **Linguagens:** Python | SQL | PHP | C++ | C | TSX
-- **Desenvolvimento Front-end:** HTML | CSS | React Native
-- **Análise e Visualização de Dados:** Pandas | Power BI | Streamlit | Kaggle
-- **Desenvolvimento Mobile:** Expo.Dev
-- **Foco atual:** Manipulação, visualização e interpretação de dados
-- **Interesses futuros:** Desenvolvimento de APIs e automação de processos com Python
+Estou sempre aberto a colaborações em projetos de dados, open source ou desenvolvimento!
 
----
+## Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias que uso e estudo:
 
-## 🛠️ Área de Suporte & Hardware
+- **Linguagens de Programação**: Python, SQL, PHP, C++, C, TypeScript (TSX).
+- **Front-end**: HTML, CSS, React Native.
+- **Análise de Dados e Visualização**: Pandas, Power BI, Streamlit, Kaggle.
+- **Desenvolvimento Mobile**: Expo.Dev.
+- **Outros**: Git, Linux (distribuições como Ubuntu), e ferramentas de automação.
 
-Além de programação e dados, também tenho interesse em:  
-- 💻 Montagem e manutenção de computadores  
-- ⚡ Otimização de sistemas operacionais (com carinho especial pelo Linux 🐧)  
-- 🔧 Diagnóstico e resolução de problemas de hardware e software  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+## Projetos Destacados
+Aqui vão alguns dos meus repositórios principais:
 
-## 📈 GitHub Stats
+- **[agendaSenac2025](https://github.com/Gustavo-Rei/agendaSenac2025)**: Um projeto em PHP para gerenciamento de agendas (pinned).
+- **[cursoStreamlit](https://github.com/Gustavo-Rei/cursoStreamlit)**: Aplicações de visualização de dados usando Streamlit em Python.
+- **[estadoBrasil](https://github.com/Gustavo-Rei/estadoBrasil)**: Página web sobre o estado de Santa Catarina, desenvolvida em HTML.
+- **[ballGravity](https://github.com/Gustavo-Rei/ballGravity)**: Jogo simples com física de gravidade em TypeScript.
+- **[ballGame](https://github.com/Gustavo-Rei/ballGame)**: Outro projeto de jogo em TypeScript.
 
-<div align="center">
-  <a href="https://github.com/gustavo-rei">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-rei&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=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"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rei&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
+Confira todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=repositories)!
 
----
+## Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Rei&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Rei&theme=dark&hide_border=true)
 
-## 🗂️ Meus Projetos
+## Contato
+- **Email**: (Adicione seu email aqui se desejar tornar público).
+- **LinkedIn**: [Gustavo Reis](https://www.linkedin.com/in/gustavo-reis-/).
+- **Localização**: Paraná, Brasil.
 
-Aqui estão alguns dos meus projetos principais:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-rei&repo=nome-do-repo1&theme=radical)](https://github.com/gustavo-rei/agendaSenac2025)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-rei&repo=nome-do-repo2&theme=radical)](https://github.com/gustavo-rei/alunosabordo)  
-
----
-
-## 🌐 Conecte-se comigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavoreis853/)  
-- 📫 [Email](mailto:seuemail@email.com) *(opcional)*
+Sinta-se à vontade para entrar em contato ou seguir meu perfil! 😊
 
 ---
 
-## 🎮 Um pouco sobre mim
-
-- 🚀 Apaixonado por **Linux**, gosto de testar diferentes distribuições (mais familiaridade com **Ubuntu**)  
-- 📰 Sempre atualizado em **notícias sobre tecnologia e open source**  
-- 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez**  
-- 🤝 Curto ajudar amigos e colegas com suporte técnico e dúvidas sobre hardware/software  
-
----
-
-✨ “Sempre aprendendo algo novo e buscando transformar dados em informações valiosas.”
+*Este README foi gerado com base nas informações do seu perfil GitHub em setembro de 2025. Você pode editá-lo para adicionar mais detalhes!*
