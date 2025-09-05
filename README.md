@@ -31,24 +31,34 @@ Além de programação e dados, também tenho interesse em:
 
 <div align="center">
   <a href="https://github.com/gustavo-rei">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-rei&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-rei&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=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"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rei&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
 ---
 
+## 🗂️ Meus Projetos
+
+Aqui estão alguns dos meus projetos principais:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-rei&repo=nome-do-repo1&theme=radical)](https://github.com/gustavo-rei/agendaSenac2025)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-rei&repo=nome-do-repo2&theme=radical)](https://github.com/gustavo-rei/alunosabordo)  
+
+---
+
 ## 🌐 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavoreis853/)  
+- 📫 [Email](mailto:seuemail@email.com) *(opcional)*
 
 ---
 
 ## 🎮 Um pouco sobre mim
 
 - 🚀 Apaixonado por **Linux**, gosto de testar diferentes distribuições (mais familiaridade com **Ubuntu**)  
-- 📰 Sempre atualizado em **notícias sobre tecnologia e open source**
-- 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez**
+- 📰 Sempre atualizado em **notícias sobre tecnologia e open source**  
+- 🎮 No tempo livre, gosto de jogar **Valorant, CS2, Minecraft, LoL** e **xadrez**  
 - 🤝 Curto ajudar amigos e colegas com suporte técnico e dúvidas sobre hardware/software  
 
 ---
