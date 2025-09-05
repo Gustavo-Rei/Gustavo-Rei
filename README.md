@@ -53,6 +53,7 @@ Explore todos os meus repositórios [aqui](https://github.com/Gustavo-Rei?tab=re
 
 ## Contato
 - **LinkedIn**: [Gustavo Reis](https://www.linkedin.com/in/gustavoreis853/).
+- **E-mail**: [Gustavo Reis]{gustavoreis853@gmail.com).
 - **Localização**: Paraná, Brasil.
 
 Entre em contato para discussões profissionais ou colaborações! 😊
