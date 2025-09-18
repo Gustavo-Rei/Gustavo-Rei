@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Reis
 
 ### Olá, mundo! 👋  
-Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, atualmente cursando **Análise e Desenvolvimento de Sistemas** com formação prévia em **Técnico em Edificações**. Natural do **Paraná - Brasil**, sou movido pela paixão por **Linux, soluções tecnológicas e desafios complexos**. Busco constantemente explorar novas tecnologias e desenvolver soluções inovadoras que gerem impacto real.
+Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, atualmente cursando **Análise e Desenvolvimento de Sistemas** com formação prévia em **Técnico em Edificações**. Natural do **Pará - Brasil**, sou movido pela paixão por **Linux, soluções tecnológicas e desafios complexos**. Busco constantemente explorar novas tecnologias e desenvolver soluções inovadoras que gerem impacto real.
 
 ---
 
@@ -60,7 +60,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&layout=compact&custom_title=Linguagens+Mais+Utilizadas)](https://github.com/Gustavo-Rei)  
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Rei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Estatísticas+do+Perfil)](https://github.com/Gustavo-Rei)  
-[![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Rei&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Gustavo-Rei)
+[![Sequência de Contribuições](https://streak-stats.demolab.com/?user=Gustavo-Rei&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Gustavo-Rei)
 
 </div>
 
@@ -72,10 +72,10 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoreis853/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542988419675?text=Olá%20Gustavo,%20vim%20do%20seu%20perfil%20do%20GitHub!)
-[![GitHub Follow](https://img.shields.io/github/followers/Gustavo-Rei?label=Seguir&style=social&logo=github)](https://github.com/Gustavo-Rei)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoreis853@gmail.com)
+[![GitHub Follow](https://img.shields.io/github/followers/Gustavo-Rei?label=Seguir&style=social&logo=github)](https://github.com/Gustavo-Rei)
 
-📍 **Ponta Grossa, Paraná - Brasil**  
+📍 **Curitiba, Paraná - Brasil**  
 
 </div>
 
@@ -83,10 +83,10 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 <div align="center" style="margin-top: 30px;">
   
-![Snake animation](https://github.com/Gustavo-Rei/Gustavo-Rei/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Gustavo-Rei&color=blueviolet&style=flat)
 
 </div>
 
 ---
 
-*Última atualização: Janeiro de 2025*
+*Última atualização: Setembro de 2025*
