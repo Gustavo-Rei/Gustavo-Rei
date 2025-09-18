@@ -75,7 +75,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoreis853@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/Gustavo-Rei?label=Seguir&style=social&logo=github)](https://github.com/Gustavo-Rei)
 
-📍 **Curitiba, Paraná - Brasil**  
+📍 **Ponta Grossa, Paraná - Brasil**  
 
 </div>
 
