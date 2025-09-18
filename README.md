@@ -73,7 +73,6 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoreis853/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542988419675?text=Olá%20Gustavo,%20vim%20do%20seu%20perfil%20do%20GitHub!)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoreis853@gmail.com)
-[![GitHub Follow](https://img.shields.io/github/followers/Gustavo-Rei?label=Seguir&style=social&logo=github)](https://github.com/Gustavo-Rei)
 
 📍 **Ponta Grossa, Paraná - Brasil**  
 
