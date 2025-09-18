@@ -1,12 +1,5 @@
 # 👨‍💻 Gustavo Reis
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoreis853/)
-[![GitHub](https://img.shields.io/github/followers/Gustavo-Rei?label=Follow&style=social)](https://github.com/Gustavo-Rei)
-
-</div>
-
 ### Olá, mundo! 👋  
 Sou **Gustavo Reis**, estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Edificações**, do **Paraná - Brasil**.  
 Apaixonado por **Linux, programação e desafios complexos**, gosto de explorar novas tecnologias e criar soluções que realmente façam diferença.
@@ -67,7 +60,8 @@ Apaixonado por **Linux, programação e desafios complexos**, gosto de explorar 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoreis853/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542988419675?text=Ol%C3%A1%2C%20tudo%20bem%3F)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542988419675?text=Ol%C3%A1%2C%20tudo%20bem%3F)
+[![GitHub](https://img.shields.io/github/followers/Gustavo-Rei?label=Follow&style=social)](https://github.com/Gustavo-Rei)
 📍 Paraná - Brasil  
 
 </div>
