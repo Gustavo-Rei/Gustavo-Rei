@@ -67,7 +67,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&layout=compact&custom_title=Linguagens+Mais+Utilizadas)](https://github.com/Gustavo-Rei) 
-[![Snake animation](https://github.com/Gustavo-Rei/Gustavo-Rei/blob/output/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/Gustavo-Rei/Gustavo-Rei/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
