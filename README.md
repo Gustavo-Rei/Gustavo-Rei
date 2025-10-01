@@ -7,7 +7,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 ## 🚀 Sobre Mim
 - 🎓 **Formação:** ADS (cursando 4º período) | Técnico em Edificações  
-- 💻 **Foco Atual:** Análise de dados, automação com Python, desenvovimento WEB, desenvolvimento Mobile e suporte técnico
+- 💻 **Foco Atual:** Análise de dados, automação com Python, desenvolvimento web (Django, Laravel), desenvolvimento Mobile e suporte técnico
 - 🛠️ **Skills Complementares:** Montagem e manutenção de hardware, otimização de sistemas Linux
 - 🎮 **Interesses Pessoais:** Experimentação com distros Linux, contribuição para projetos open source, gaming competitivo (Valorant, CS2, LoL) e moderação de servidores Minecraft
 
@@ -22,12 +22,14 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **Desenvolvimento Web:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Dados & Analytics:**  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -76,11 +78,3 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoreis853@gmail.com)
 
 📍 **Ponta Grossa, Paraná - Brasil**  
-
-</div>
-
----
-
-<div align="center" style="margin-top: 30px;">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Gustavo-Rei&color=blueviolet&style=flat)
