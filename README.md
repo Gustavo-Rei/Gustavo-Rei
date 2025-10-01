@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Reis
 
 ### Olá, mundo! 👋  
-Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, atualmente cursando **Análise e Desenvolvimento de Sistemas** com formação prévia em **Técnico em Edificações**. Natural do **Mogi das Cruzes - SP**, sou movido pela paixão por **Linux, soluções tecnológicas e desafios complexos**. Busco constantemente explorar novas tecnologias e desenvolver soluções inovadoras que gerem impacto real.
+Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, atualmente cursando **Análise e Desenvolvimento de Sistemas** com formação prévia em **Técnico em Edificações**. Natural de **Mogi das Cruzes - SP**, sou movido pela paixão por **Linux, soluções tecnológicas e desafios complexos**. Busco constantemente explorar novas tecnologias e desenvolver soluções inovadoras que gerem impacto real.
 
 ---
 
