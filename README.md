@@ -84,9 +84,3 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 <div align="center" style="margin-top: 30px;">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gustavo-Rei&color=blueviolet&style=flat)
-
-</div>
-
----
-
-*Última atualização: Setembro de 2025*
