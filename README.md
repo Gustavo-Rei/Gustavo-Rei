@@ -66,10 +66,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&layout=compact&custom_title=Linguagens+Mais+Utilizadas)](https://github.com/Gustavo-Rei)  
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Rei&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Estatísticas+do+Perfil)](https://github.com/Gustavo-Rei)  
-[![Sequência de Contribuições](https://streak-stats.demolab.com/?user=Gustavo-Rei&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Gustavo-Rei)
-
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&layout=compact&custom_title=Linguagens+Mais+Utilizadas)](https://github.com/Gustavo-Rei) 
 </div>
 
 ---
