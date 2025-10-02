@@ -9,7 +9,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 - 🎓 **Formação:** ADS (cursando 4º período) | Técnico em Edificações  
 - 💻 **Foco Atual:** Análise de dados, automação com Python, desenvolvimento web (Django, Laravel), desenvolvimento Mobile e suporte técnico
 - 🛠️ **Skills Complementares:** Montagem e manutenção de hardware, otimização de sistemas Linux
-- 🎮 **Interesses Pessoais:** Experimentação com distros Linux, contribuição para projetos open source, gaming competitivo (Valorant, CS2, LoL) e moderação de servidores Minecraft
+- 🎮 **Interesses Pessoais:** Experimentação com distros Linux, contribuição para projetos open source, games (Valorant, CS2, LoL, Minecraft) e moderação de servidores Minecraft
 
 ---
 
