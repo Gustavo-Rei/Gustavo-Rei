@@ -79,7 +79,9 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 <div align="center">
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&theme=dark&hide_border=true&layout=compact&custom_title=Linguagens+Mais+Utilizadas)](https://github.com/Gustavo-Rei)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rei&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Rei&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 </div>
 
