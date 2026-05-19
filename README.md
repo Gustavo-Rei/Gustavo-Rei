@@ -52,7 +52,7 @@ Sou **Gustavo Reis**, um entusiasta de tecnologia em transição de carreira, at
 
 ## 📌 Projetos em Destaque
 
-- 🦷 **[Pesquisa - Análise de Dados: Saúde Bucal](https://github.com/Gustavo-Rei)** *(Em andamento)* → Plataforma com IA e análise de dados para apoio à Secretaria Municipal de Saúde de Ponta Grossa na interpretação de dados de saúde bucal e geração de insights estratégicos
+- **[Pesquisa - Análise de Dados: Saúde Bucal](https://github.com/Gustavo-Rei)** *(Em andamento)* → Plataforma com IA e análise de dados para apoio à Secretaria Municipal de Saúde de Ponta Grossa na interpretação de dados de saúde bucal e geração de insights estratégicos
 - **[Sistema de Gestão de Agendas](https://github.com/Gustavo-Rei/agendaSenac2025)** → Sistema de agendamento com integração front/back-end em PHP
 - **[Projeto Laravel - Bazinga](https://github.com/Gustavo-Rei/bazinga2025)** → Aplicação MVC com autenticação e banco de dados
 - **[Dashboard de Análise de Dados](https://github.com/Gustavo-Rei/cursoStreamlit)** → Ferramenta interativa para visualização de datasets com Streamlit e Python
